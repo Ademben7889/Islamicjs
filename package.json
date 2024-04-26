@@ -1,0 +1,16 @@
+{
+  "name": "islamicjs",
+  "version": "1.0.1",
+  "description": "Islamic Package (Beta)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "islamicjs": "^1.0.1"
+  }
+}
